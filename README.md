@@ -1,5 +1,3 @@
 new home.
-<br>
-cute 
-<br>
-only
+cute.
+only homes.
